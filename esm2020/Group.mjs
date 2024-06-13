@@ -1,0 +1,9 @@
+export class Group {
+    constructor(name, drake, options) {
+        this.name = name;
+        this.drake = drake;
+        this.options = options;
+        this.initEvents = false;
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiR3JvdXAuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9saWJzL25nMi1kcmFndWxhL3NyYy9Hcm91cC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFHQSxNQUFNLE9BQU8sS0FBSztJQUVoQixZQUNTLElBQVksRUFDWixLQUFzQixFQUN0QixPQUF1QjtRQUZ2QixTQUFJLEdBQUosSUFBSSxDQUFRO1FBQ1osVUFBSyxHQUFMLEtBQUssQ0FBaUI7UUFDdEIsWUFBTyxHQUFQLE9BQU8sQ0FBZ0I7UUFKekIsZUFBVSxHQUFHLEtBQUssQ0FBQztJQUt2QixDQUFDO0NBQ0wiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBEcmFrZVdpdGhNb2RlbHMgfSBmcm9tIFwiLi9EcmFrZVdpdGhNb2RlbHNcIjtcclxuaW1wb3J0IHsgRHJhZ3VsYU9wdGlvbnMgfSBmcm9tIFwiLi9EcmFndWxhT3B0aW9uc1wiO1xyXG5cclxuZXhwb3J0IGNsYXNzIEdyb3VwIHtcclxuICBwdWJsaWMgaW5pdEV2ZW50cyA9IGZhbHNlO1xyXG4gIGNvbnN0cnVjdG9yKFxyXG4gICAgcHVibGljIG5hbWU6IHN0cmluZyxcclxuICAgIHB1YmxpYyBkcmFrZTogRHJha2VXaXRoTW9kZWxzLFxyXG4gICAgcHVibGljIG9wdGlvbnM6IERyYWd1bGFPcHRpb25zXHJcbiAgKSB7fVxyXG59XHJcbiJdfQ==
