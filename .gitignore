@@ -43,3 +43,4 @@ Thumbs.db
 
 # AoT generated files
 factories
+/libs/ng2-dragula/node_modules
